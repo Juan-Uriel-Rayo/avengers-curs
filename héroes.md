@@ -6,4 +6,4 @@
 * Hulk
 * Black Widow
 * Hawkeye
-* Batman
+* Daredevil
