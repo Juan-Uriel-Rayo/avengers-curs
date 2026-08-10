@@ -3,3 +3,4 @@
 * Thanos
 * Ultron
 * Loki
+* Kang
